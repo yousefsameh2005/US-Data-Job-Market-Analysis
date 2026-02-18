@@ -1,15 +1,15 @@
 US Data Job Market Analysis
 Overview
 
-This project analyzes the US data job market to identify:
+Analysis of the US data job market (2023) focusing on:
 
-The most in-demand skills
+Skill demand
 
-Salary trends across roles
+Salary trends
 
-The most optimal skills for Data Analysts (high demand & high pay)
+Optimal skills for Data Analysts
 
-The dataset includes job titles, locations, salaries, and required skills for data roles in 2023.
+Dataset includes job titles, locations, salaries, and required skills.
 
 Key Questions
 
@@ -21,7 +21,7 @@ How do salaries compare across roles and skills?
 
 What are the most optimal skills to learn?
 
-Tools Used
+Tools
 
 Python (Pandas, Matplotlib, Seaborn)
 
@@ -30,41 +30,38 @@ Jupyter Notebook
 Git & GitHub
 
 Project Structure
-
-Data Cleaning and EDA.ipynb
-
-Analysis.ipynb
-
-Insights_and_Recommendations.ipynb
+├── Data Cleaning and EDA.ipynb
+├── Analysis.ipynb
+└── Insights_and_Recommendations.ipynb
 
 Key Findings
 Skill Demand
 
-SQL is the most requested skill for Data Analysts.
+SQL dominates Data Analyst roles.
 
-Python dominates Data Scientist and Data Engineer roles.
+Python leads Data Scientist and Data Engineer roles.
 
 Cloud tools (AWS, Azure, Spark) are critical for Data Engineers.
 
 Skill Trends
 
-SQL remains consistently dominant.
+SQL remains consistently strong.
 
-Excel shows strong late-year growth.
+Excel increases toward the end of the year.
 
-Python and Tableau maintain stable demand.
+Python and Tableau stay stable throughout.
 
 Salary Insights
 
-Senior roles offer significantly higher salary ranges.
+Senior roles have significantly higher salary ranges.
 
-Specialized technical skills are associated with higher pay.
+Specialized technical skills correlate with higher pay.
 
-Foundational skills (SQL, Excel) are the most demanded but not always the highest paid.
+Foundational tools are most demanded but not always highest paid.
 
-Optimal Skills for Data Analysts
+Optimal Skills (Data Analyst)
 
-Skills that combine strong demand and competitive salary:
+High demand + strong salary:
 
 SQL
 
@@ -76,4 +73,4 @@ SQL Server
 
 Conclusion
 
-The US data job market rewards a mix of strong fundamentals (SQL, Excel) and advanced technical skills (Python, cloud tools). Developing both demand-heavy and higher-paying skills provides the best career positioning.
+The market rewards a mix of strong fundamentals (SQL, Excel) and advanced technical skills (Python, cloud tools). Building both increases career positioning and earning potential.
